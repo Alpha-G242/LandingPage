@@ -1,0 +1,12 @@
+{
+  "name": "App Development landing page",
+  "short_name": "App Development landing page",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
